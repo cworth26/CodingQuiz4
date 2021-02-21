@@ -214,3 +214,4 @@ var quizBody = document.getElementById("quiz");
 
  // This button starts the quiz!
  startQuizButton.addEventListener("click",startQuiz);
+ 
